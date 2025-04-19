@@ -9,7 +9,7 @@ Removed unnecessary data: Excluded columns such as Date Taken, User ID, Email, a
 
 Generalized roles and industries: Consolidated niche job titles and industry terms into broader, more standardized categories for more coherent visualization.
 
-Standardized programming languages: Cleaned and grouped variations of programming language entries (e.g., "Python 3", "py", "Python") under a consistent naming convention to analyze language popularity accurately.
+Standardized programming languages: Cleaned and grouped variations of programming language entries (e.g., "Python", "R", "Java") under a consistent naming convention to analyze language popularity accurately.
 
 📈 Dashboard Features
 Using the cleaned dataset, I developed an interactive dashboard that provides insight into key aspects of the Data Analysis and Data Science workforce:
